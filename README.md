@@ -1,2 +1,2 @@
 # hello-world
-Ideas ans resources
+Ideas and resources
